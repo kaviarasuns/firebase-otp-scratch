@@ -5,7 +5,7 @@ import OtpInput from 'react-otp-input';
 import { useState, useEffect } from 'react';
 import { CgSpinner } from 'react-icons/cg';
 import PhoneInput from 'react-phone-input-2';
-import { auth } from '../components/firebase.config';
+import { auth } from '../firebase.config';
 import { ToastContainer, toast } from 'react-toastify';
 import 'react-toastify/dist/ReactToastify.css';
 
